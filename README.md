@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a front-end web developer from Ukraine who loves taking part in changing the modern web by building well-designed and easy-to-use websites. P.S. In my spare time, I usually find myself choosing between learning a new language or putting a couple of hours into exploring the open world of a good RPG game :)</p>
+<p align="left">I am a 20 years old front-end web developer from Ukraine who loves taking part in changing the modern web by building well-designed and easy-to-use websites. P.S. In my spare time, I usually find myself choosing between learning a new language and putting a couple of hours into exploring the open world of a good RPG game :)</p>
 
 ###
 
@@ -40,8 +40,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="15" />
@@ -74,11 +72,11 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/danil-dikhtyar-8b2232306/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  </a>
   <a href="mailto:danil.dikhtyar@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/danil-dikhtyar-8b2232306/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Rock_n_Roll_CRC" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
