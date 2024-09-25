@@ -1,12 +1,12 @@
-<img align="right" height="250" src="https://images.fallout.wiki/c/c6/Atx_playericon_perks_11.webp"  />
+<h2 align="left">👋🏻 Здоровенькі були, I am Danil Dikhtyar!</h2>
 
 ###
 
-<h1 align="left">👋🏻 Здоровенькі були, I am Danil Dikhtyar!</h1>
+<img align="right" height="150" src="https://images.fallout.wiki/c/c6/Atx_playericon_perks_11.webp"  />
 
 ###
 
-<h2 align="left">📝 About Me</h2>
+<h3 align="left">📝 About Me</h3>
 
 ###
 
@@ -14,13 +14,11 @@
 
 ###
 
-<br clear="both">
+---
 
-<h2 align="left">🧰 Languages and Tools</h2>
+<h3 align="left">🧰 Languages and Tools</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
@@ -46,30 +44,26 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
 </div>
 
-###
-
 <br clear="both">
-
-<h2 align="left">📊 GitHub Statistics</h2>
 
 ###
 
-<br clear="both">
+<h3 align="left">📊 GitHub Statistics</h3>
+
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rock-n-Roll-CRC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Rock-n-Roll-CRC&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
 <br clear="both">
-
-<h2 align="left">📱 Contact Me</h2>
 
 ###
 
-<br clear="both">
+<h3 align="left">📱 Contact Me</h3>
+
+###
 
 <div align="left">
   <a href="mailto:danil.dikhtyar@gmail.com" target="_blank">
