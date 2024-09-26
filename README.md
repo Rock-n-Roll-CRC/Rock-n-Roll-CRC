@@ -1,12 +1,12 @@
-<h2 align="left">👋🏻 Здоровенькі були, I am Danil Dikhtyar!</h2>
+<h1 align="left">👋🏻 Здоровенькі були, I am Danil Dikhtyar!</h1>
 
 ###
 
-<img align="right" height="150" src="https://images.fallout.wiki/c/c6/Atx_playericon_perks_11.webp"  />
+<img align="right" height="150" src="https://images.fallout.wiki/c/c6/Atx_playericon_perks_11.webp" style="position: relative;z-index:999"  />
 
 ###
 
-<h3 align="left">📝 About Me</h3>
+<h2 align="left">📝 About Me</h2>
 
 ###
 
@@ -14,9 +14,7 @@
 
 ###
 
----
-
-<h3 align="left">🧰 Languages and Tools</h3>
+<h2 align="left">🧰 Languages and Tools</h2>
 
 ###
 
@@ -44,11 +42,9 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
 </div>
 
-<br clear="both">
-
 ###
 
-<h3 align="left">📊 GitHub Statistics</h3>
+<h2 align="left">📊 GitHub Statistics</h2>
 
 ###
 
@@ -57,19 +53,17 @@
   <img src="https://streak-stats.demolab.com?user=Rock-n-Roll-CRC&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br clear="both">
-
 ###
 
-<h3 align="left">📱 Contact Me</h3>
+<h2 align="left">📱 Contact Me</h2>
 
 ###
 
 <div align="left">
-  <a href="mailto:danil.dikhtyar@gmail.com" target="_blank">
+  <a href="mailto:danil.dikhtyar@gmail.com" target="_blank" style="margin-inline-end: 1rem">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/danil-dikhtyar-8b2232306/" target="_blank">
+  <a href="https://www.linkedin.com/in/rock-n-roll-crc/" target="_blank" style="margin-inline-end: 1rem">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Rock_n_Roll_CRC" target="_blank">
