@@ -39,7 +39,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="50" alt="webpack logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
 </div>
 
 ###
