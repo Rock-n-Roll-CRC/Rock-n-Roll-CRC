@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a 20 years old front-end web developer from Ukraine who loves taking part in changing the modern web by building well-designed and easy-to-use websites. P.S. In my spare time, I usually find myself choosing between learning a new language and putting a couple of hours into exploring the open world of a good RPG game :)</p>
+<p align="left">I am a 21 years old front-end web developer from Ukraine who loves taking part in changing the modern web by building well-designed and easy-to-use websites. P.S. In my spare time, I usually find myself choosing between learning a new language and putting a couple of hours into exploring the open world of a good RPG game :)</p>
 
 ###
 
