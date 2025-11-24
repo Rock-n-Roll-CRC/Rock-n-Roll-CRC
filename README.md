@@ -60,10 +60,10 @@
 ###
 
 <div align="left">
-  <a href="mailto:danil.dikhtyar@gmail.com" target="_blank" style="margin-inline-end: 3rem">
+  <a href="mailto:danil.dikhtyar@gmail.com" target="_blank" style="margin-inline-end: 1rem">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/rock-n-roll-crc/" target="_blank" style="margin-inline-end: 3rem">
+  <a href="https://www.linkedin.com/in/rock-n-roll-crc/" target="_blank" style="margin-inline-end: 1rem">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Rock_n_Roll_CRC" target="_blank">
